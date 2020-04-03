@@ -5,7 +5,7 @@ const db = mysql.createConnection({
   user: "root",
   password: "zhy554971375@",
   database: "cloudemperor" ,//数据库名
-  //port:'3306'
+  port:'3306'
 });
 /*
 db.connect(function(err){

@@ -7,8 +7,16 @@
 ### Project setup
 ```
 npm install
+
 ```
 
 ### Run your serve
 ```
 npm start
+
+```
+### supervisor Run serve
+```
+supervisor bin/www 
+
+```
